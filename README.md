@@ -18,6 +18,6 @@ Here are some of the photos from the Scrum Meeting App.
 <img src="https://github.com/user-attachments/assets/89ac9566-c68c-4b22-93ba-976f4530cc56" width="200">
 <img src="https://github.com/user-attachments/assets/8f42b333-5cc6-476d-9c44-e714909f3a5e" width="200">
 
-<br>
+<br><br>
 
 Note: This app is not available on iOS due to the rigorous App Store requirements. Given that this is a side project, the effort required for compliance outweighs the benefits of publishing it.
