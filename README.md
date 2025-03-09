@@ -1,7 +1,7 @@
 # Scrum Meeting App
 
 This was a week-long project where I created an iOS app, in Swift, where users can:
-- Create reoccuring scrum meetings w/ various themes, allotated time, and attendees
+- Create reccuring scrum meetings w/ various themes, allotated time, and attendees
 - See specific details of each scrum meeting and edit such details
 - Look at meeting timer showing allotated timer per speaker and providing the ability to skip speakers, if needed.
 - See the history of each scrum meeting with a audio transcription of the meeting afterwords with corresponding attendees
